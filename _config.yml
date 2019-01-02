@@ -100,7 +100,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Rupen Mitra"
@@ -111,13 +110,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "Rupen.Mitra@ed.ac.uk"
+      #url: "Rupen.Mitra@ed.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rupenmitra.github.io/"
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/rupenmitra/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -290,3 +289,23 @@ defaults:
       comments: # true
       share: true
       related: true
+	  
+	  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+
+	  
+	  
+	  
+	  
+	  
+	  
+	  
