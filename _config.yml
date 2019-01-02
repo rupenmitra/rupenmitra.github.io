@@ -84,11 +84,11 @@ analytics:
 # Site Author
 author:
   name             : "Rupen Mitra"
-   avatar           : "/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : " PhD Student, Department of Informatics at the University of Edinburgh"
   location         : "Edinburgh, United Kingdom"
   employer         :
-    email            : "Rupen.Mitra@ed.ac.uk"
+  email            : "Rupen.Mitra@ed.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
