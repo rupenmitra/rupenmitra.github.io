@@ -106,11 +106,11 @@ author:
   avatar           : "/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Wireless Networking and Machine Learning"
   location         : "Columbus, OH"
-  email            : "Rupen.Mitra@ed.ac.uk"
+ # email            : "Rupen.Mitra@ed.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "Rupen.Mitra@ed.ac.uk"
+      url: "Rupen.Mitra@ed.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rupenmitra.github.io/"
