@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rupen Homepage"
+title                    : "Rupen's Homepage"
 title_separator          : "-"
 name                     : &name "Rupen Mitra"
 description              : &description "personal description"
