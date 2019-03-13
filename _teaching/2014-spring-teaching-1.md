@@ -7,7 +7,7 @@ venue: "The Ohio State University, Department of Computer Science & Engineering"
 date: 2016-08-15
 location: "Columbus, OH, USA"
 ---
-<b>Course Web Page</b>  http://www.cse.ohio-state.edu/cse1223
+<b>Course Web Page</b> <a href="http://www.cse.ohio-state.edu/cse1223">Test</a>
 <br>
 
 Introduction to computer programming and to problem solving techniques using computer programs;<br>
