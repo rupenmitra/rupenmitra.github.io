@@ -1,11 +1,11 @@
-
+---
 title: "[Autumn 2016] Introduction to Computer Programming In Java"
 collection: teaching
 permalink: /teaching/2016-spring-teaching-1
 venue: "The Ohio State University, Department of Computer Science & Engineering"
 date: 2016-08-15
 location: "Columbus, OH, USA"
-
+---
 <b>Course Web Page</b> <a href="http://www.cse.ohio-state.edu/cse1223">http://www.cse.ohio-state.edu/cse1223</a>
 <br>
 
