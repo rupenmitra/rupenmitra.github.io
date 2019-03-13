@@ -16,7 +16,7 @@ Level and Credits
 U 3 (two one-hour lectures, one one-hour lab)
 
 
-Course Goals \n
+Course Goals <br>
 Be competent with using basic coding features provided by high-level imperative programming languages.
 Be competent with writing computer programs to implement given simple algorithms.
 Be familiar with analyzing simple real-life problems and choosing appropriate algorithms for their solution.
