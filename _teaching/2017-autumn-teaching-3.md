@@ -2,7 +2,7 @@
 title: "Autumn 2017<br>[OSU CSE 1223] Introduction to Computer Programming In Java"
 collection: teaching
 type: Undergrad/grad level course
-permalink: /teaching/2017-spring-teaching-2
+permalink: /teaching/2017-autumn-teaching-3
 venue: "The Ohio State University, Department of Computer Science & Engineering"
 date: 2017-08-15
 location: "Columbus, OH, USA"
