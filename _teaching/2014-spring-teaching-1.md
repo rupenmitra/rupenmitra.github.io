@@ -16,7 +16,7 @@ Level and Credits
 U 3 (two one-hour lectures, one one-hour lab)
 
 
-Course Goals%
+Course Goals \n
 Be competent with using basic coding features provided by high-level imperative programming languages.
 Be competent with writing computer programs to implement given simple algorithms.
 Be familiar with analyzing simple real-life problems and choosing appropriate algorithms for their solution.
@@ -31,8 +31,7 @@ Be exposed to data abstraction concepts and other more advanced programming idea
 
 Course Web Page
 The main web page for this course is: http://www.cse.ohio-state.edu/cse1223
-Textbook
-Cay Horstmann, Java Concepts: Late Objects Enhanced e-Text (3rd edition), John Wiley & Sons, Inc. ISBN: 978-1-119-32102-6.  You may purchase a code for it at the bookstore or directly from the publisher via this link. Note that this is the same textbook that is used in CSE 2123.
+
 
 Course Topics (Tentative)
 Course Introduction/Basic Concepts
