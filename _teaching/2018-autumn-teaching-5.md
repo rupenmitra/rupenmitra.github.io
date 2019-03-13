@@ -2,9 +2,9 @@
 title: "Autumn 2018<br>[OSU CSE 2123] Data Structures Using Java"
 collection: teaching
 type: Undergrad/grad level course
-permalink: /teaching/2018-spring-teaching-3
+permalink: /teaching/2018-autumn-teaching-5
 venue: "The Ohio State University, Department of Computer Science & Engineering"
-date: 2017-08-15
+date: 2018-08-15
 location: "Columbus, OH, USA"
 ---
 <b>Course Web Page</b> <a href="http://web.cse.ohio-state.edu/cse2123/">http://web.cse.ohio-state.edu/cse2123/</a>
