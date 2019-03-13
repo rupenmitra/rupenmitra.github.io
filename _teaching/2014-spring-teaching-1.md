@@ -1,7 +1,7 @@
 ---
 title: "(Autumn 2016) Introduction to Computer Programming In Java"
 collection: teaching
-type: "Undergraduate/grad course"
+
 permalink: /teaching/2016-spring-teaching-1
 venue: "The Ohio State University, Department of Computer Science & Engineering"
 date: 2016-08-15
