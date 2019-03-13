@@ -1,5 +1,5 @@
 ---
-title: "Autumn 2016<br>[OSU CSE 1223] Introduction to Computer Programming In Java"
+title: "Spring 2017<br>[OSU CSE 1223] Introduction to Computer Programming In Java"
 collection: teaching
 type: Undergrad/grad level course
 permalink: /teaching/2017-spring-teaching-2
