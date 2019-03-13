@@ -7,7 +7,7 @@ venue: "The Ohio State University, Department of Computer Science & Engineering"
 date: 2016-08-15
 location: "Columbus, OH, USA"
 ---
-Course Web Page  http://www.cse.ohio-state.edu/cse1223
+<strong>Course Web Page</strong>  http://www.cse.ohio-state.edu/cse1223
 <br>
 
 Introduction to computer programming and to problem solving techniques using computer programs;<br>
@@ -17,7 +17,7 @@ Level and Credits <br>
 U 3 (two one-hour lectures, one one-hour lab) <br>
 
 
-Course Goals <br>
+<strong>Course Goals</strong> <br>
 Be competent with using basic coding features provided by high-level imperative programming languages. <br>
 Be competent with writing computer programs to implement given simple algorithms. <br>
 Be familiar with analyzing simple real-life problems and choosing appropriate algorithms for their solution. <br>
@@ -32,7 +32,7 @@ Be exposed to data abstraction concepts and other more advanced programming idea
 
 
 
-Course Topics <br>
+<strong>Course Topics</strong> <br>
 Course Introduction/Basic Concepts <br>
 Primitive types and expressions <br>
 Basic I/O <br>
