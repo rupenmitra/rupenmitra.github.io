@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on the Google_Scholar(https://scholar.google.com/citations?user=WlwuTKEAAAAJ&hl=en)
-
-
 
 * **5G mobile technology: A survey**  
   **R.N. Mitra**, Dharma P Agrawal
