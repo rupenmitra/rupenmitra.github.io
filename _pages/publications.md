@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+  You can also find my articles on the Google_Scholar(https://scholar.google.com/citations?user=WlwuTKEAAAAJ&hl=en)
 
-{% include base_path %}
+
 
 * **5G mobile technology: A survey**  
   **R.N. Mitra**, S Pramanik, S Mitra, BB Chaudhuri
