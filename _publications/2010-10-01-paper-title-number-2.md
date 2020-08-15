@@ -1,8 +1,15 @@
 ---
-title: "Pattern classification of time plane features of ECG wave from cell-phone photography for machine aided cardiac disease diagnosis"
+title: "Joy Bangla"
 collection: publications
-permalink:/ _publications/ 2010-10-01-paper-title-number-2
-excerpt: 'This article reports a robust technique for extracting time plane features of Electrocardiogram (ECG) from digital images of ECG paper strips.'
-date: 2014-08-28
-venue: 'The 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'14), Chicago, US'
-paperurl: 'https://ieeexplore.ieee.org/document/6944699'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S2405959515300503)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
