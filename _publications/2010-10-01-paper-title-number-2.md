@@ -1,15 +1,13 @@
 ---
-title: "Joy Bangla"
+title: "A robust technique for delineation and features extraction of ECG signal from mobile-phone photography"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'This paper reports the development of a software suite to be accessed via mobile phone or Personal Digital Assistant (PDA) for the extraction and analysis of disease-related features from the photograph of paper based ECG records.'
+date: 2009-10-01  2012-12-28
+venue: ' 2012 International Conference on Communications, Devices and Intelligent Systems (CODIS) '
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/6422151'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](https://www.sciencedirect.com/science/article/pii/S2405959515300503)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/6422151)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
