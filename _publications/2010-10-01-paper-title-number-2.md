@@ -6,7 +6,6 @@ excerpt: 'This paper reports the development of a software suite to be accessed 
 date: 2009-10-01  2012-12-28
 venue: ' 2012 International Conference on Communications, Devices and Intelligent Systems (CODIS) '
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/6422151'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/6422151)
