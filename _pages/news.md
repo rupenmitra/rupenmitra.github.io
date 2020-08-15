@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * **Curriculum Mapping (January 2020 - September 2020)**  
-  [COLLEGE OF ARTS, HUMANITIES AND SOCIAL SCIENCES] (https://www.ed.ac.uk/arts-humanities-soc-sci) at The university of Edinburgh selected me to help them in curriculum mapping project
+  [[COLLEGE OF ARTS, HUMANITIES AND SOCIAL SCIENCES] (https://www.ed.ac.uk/arts-humanities-soc-sci)] at The university of Edinburgh selected me to help them in curriculum mapping project
 
 
 * **ACM IMC Shadow PC (July 2019)**  
