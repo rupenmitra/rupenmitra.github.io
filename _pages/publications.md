@@ -17,5 +17,5 @@ author_profile: true
 
 * **A robust technique for delineation and features extraction of ECG signal from mobile-phone photography**  
   **R.N. Mitra**, Dharma P Agrawal
-  In Communications, Devices and Intelligent Systems (CODIS), 2012 International Conference on 
+  In Communications, Devices and Intelligent Systems (CODIS), 2012 International Conference on
   [DOI](https://ieeexplore.ieee.org/abstract/document/6422151/)  
