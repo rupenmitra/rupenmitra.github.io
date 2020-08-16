@@ -27,8 +27,8 @@ For an updated list of publications please visit my [[Google Scholar](https://sc
   In [[2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society](https://www.scimagojr.com/journalsearch.php?q=21100390410&tip=sid&clean=0)]
   [[DOI](https://ieeexplore.ieee.org/abstract/document/6944699)]
   
-  * **Recognition of Gait Impairment and Data Analysis for Parkinson's Patients Using Low-Cost Sensor Based Embedded System**  
-  **R.N. Mitra**, Piyali Das, Alberto Espay, Dharma P Agrawal 
-  In [[The 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'14)](https://www.scimagojr.com/journalsearch.php?q=21100390410&tip=sid&clean=0)]
-  [[DOI](https://www.researchgate.net/publication/269404491_Recognition_of_Gait_Impairment_and_Data_Analysis_for_Parkinson's_Patients_Using_Low-cost_Sensor_Based_Embedded_System)]
+* **Recognition of Gait Impairment and Data Analysis for Parkinson's Patients Using Low-Cost Sensor Based Embedded System**  
+**R.N. Mitra**, Piyali Das, Alberto Espay, Dharma P Agrawal 
+In [[The 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'14)](https://www.scimagojr.com/journalsearch.php?q=21100390410&tip=sid&clean=0)]
+[[DOI](https://www.researchgate.net/publication/269404491_Recognition_of_Gait_Impairment_and_Data_Analysis_for_Parkinson's_Patients_Using_Low-cost_Sensor_Based_Embedded_System)]
 
