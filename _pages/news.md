@@ -4,7 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* **Paper to appear Wiley 5G ref (August 2020)**  
+* **Paper to appear in Wiley 5G ref (August 2020)**  
 Our paper **"5G Mobile Networks Security Landscape and Major Risks"** will appear in [[Wiley 5G ref](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119471509)] 
 
 * **Curriculum Mapping (January 2020 - September 2020)**  
