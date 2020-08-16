@@ -15,6 +15,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 
 <h2>Posts</h2>
+<a class="twitter-timeline" href="https://twitter.com/rupenmitra?ref_src=twsrc%5Etfw">Tweets by rupenmitra</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
