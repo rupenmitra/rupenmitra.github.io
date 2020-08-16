@@ -4,7 +4,7 @@ permalink: /news/
 author_profile: true
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/rupenmitra?ref_src=twsrc%5Etfw">Tweets by rupenmitra</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 * **Paper to appear in Wiley 5G ref (August 2020)**  
