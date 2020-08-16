@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * **Curriculum Mapping (January 2020 - September 2020)**  
-[[College of Arts, Humanities and Social Science (CAHSS)](https://www.ed.ac.uk/arts-humanities-soc-sci)] at The university of Edinburgh selected me to help them in curriculum mapping project
+[[College of Arts, Humanities and Social Science (CAHSS)](https://www.ed.ac.uk/arts-humanities-soc-sci)] at The university of Edinburgh selected me to help them in a college level curriculum mapping project
 
 * **ACM IMC Shadow PC (July 2019)**  
 Participate in IMC shadow PC 2019 in the beautiful campus of Queen Mary University of London 
