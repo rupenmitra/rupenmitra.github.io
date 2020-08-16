@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-For an updated list of publications please visit my [[Google Scholar](https://scholar.google.com/citations?hl=en&user=WlwuTKEAAAAJ)] profile
+For an updated list of publications please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WlwuTKEAAAAJ) profile
 
 * **5G mobile technology: A survey**  
   **R.N. Mitra**, Dharma P Agrawal 
