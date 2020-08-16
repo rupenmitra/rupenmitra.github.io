@@ -12,7 +12,7 @@ redirect_from:
 Education
 =========
 * Ph.D in Computer Science, The University of Edinburgh (2019-Present)
-* M.S. in CSE, The Ohio State Universit (2016-2018)
+* M.S. in CSE, The Ohio State University (2016-2018)
 * M.S. in CSE, University of Cincinnati (2013-2015)
 * B.Tech. in ECE, West Bengal Univeristy of Technology (2005-2009)
 
