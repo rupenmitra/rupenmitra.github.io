@@ -22,7 +22,7 @@ Broadly, my research interests sprawl in the cross-section of **Networked-System
  My undergraduate research was in the area of wireless communication and image processing.
  
 
-Recent Updates
+Recent News
 ======
 
 * **Paper to appear in Wiley 5G ref (August 2020)**  
