@@ -12,7 +12,7 @@ I am a doctoral student in the [School of Informatics](https://www.ed.ac.uk/info
 
 Research
 ======
-Broadly, my research interests sprawl in the cross-section of **Networked-Systems, **Mobile Networking**, and **Network Security**. More specifically, my current research endeavors encompass the following areas
+Broadly, my research interests sprawl in the cross-section of **Networked-Systems**, **Mobile Networking**, and **Network Security**. More specifically, my current research endeavors encompass the following areas
 
 1. 5G Network Security
 2. Security of Mobile systems 
