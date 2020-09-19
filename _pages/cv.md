@@ -28,7 +28,7 @@ Industry Work experience
 Academic Work experience
 ========================
 * (2020) The Univeristy of Edinburgh, Edinburgh, UK
-  * Curriculam Mapping Intern at the CHSS
+  * Curriculam Mapping Intern at the CAHSS
 
 * (2016-2018) The Ohio State Univeristy, Columbus, OH, USA
   * Instructor (Grad Teaching Assistant)
