@@ -32,7 +32,7 @@ Our paper **"5G Mobile Networks Security Landscape and Major Risks"** will appea
 [College of Arts, Humanities and Social Science (CAHSS)](https://www.ed.ac.uk/arts-humanities-soc-sci) at The university of Edinburgh selects me to help designing a college-level curriculum mapping project
 
 * **ACM IMC Shadow PC (July 2019)**  
-Participate in [IMC shadow PC 2019](https://conferences.sigcomm.org/imc/2019/shadow/) on the beautiful campus of Queen Mary University of London 
+Participated in [IMC shadow PC 2019](https://conferences.sigcomm.org/imc/2019/shadow/) on the beautiful campus of Queen Mary University of London 
 
 
 
