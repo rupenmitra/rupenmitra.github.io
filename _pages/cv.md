@@ -18,7 +18,7 @@ Education
 
 Industry Work experience
 ========================
-* (Feb 2015 to May 2015): Erricsson, Plano,Tx,USA
+* (Feb 2015 to May 2015): Erricsson, Plano, TX, USA
   * Next Generation RAN Intern
 
 * (2010-2013) Nokia Siemens Networks, Kolkata, India
