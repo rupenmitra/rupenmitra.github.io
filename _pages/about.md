@@ -22,8 +22,10 @@ Broadly, my research interests sprawl in the cross-section of **Networked-System
  My undergraduate research was in the area of wireless communication and image processing.
  
 
-Recent News
+Recent News 
 ======
+* **Paper now available on arxiv**  
+Our paper **"Examining Machine Learning for 5G and Beyond through an Adversarial Lens"** is now available on [https://arxiv.org/](https://arxiv.org/abs/2009.02473) 
 
 * **Paper to appear in Wiley 5G ref (September 2020)**  
 Our paper **"5G Mobile Networks Security Landscape and Major Risks"** will appear in [Wiley 5G ref](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119471509) 
