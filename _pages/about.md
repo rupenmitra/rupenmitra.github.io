@@ -40,4 +40,4 @@ Participated in [IMC shadow PC 2019](https://conferences.sigcomm.org/imc/2019/sh
 
 Footprints 
 ======
-<a href="https://clustrmaps.com/site/1bd8f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=NUNekkzi47eSbuq8LdOuGpf0k2cz0VpvYgiLHWl_gj8&cl=ffffff" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=4762c4&w=a&t=tt&d=NUNekkzi47eSbuq8LdOuGpf0k2cz0VpvYgiLHWl_gj8&co=92c9f0&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
