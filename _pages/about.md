@@ -37,4 +37,4 @@ Our paper **"5G Mobile Networks Security Landscape and Major Risks"** will appea
 Participated in [IMC shadow PC 2019](https://conferences.sigcomm.org/imc/2019/shadow/) on the beautiful campus of Queen Mary University of London 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NUNekkzi47eSbuq8LdOuGpf0k2cz0VpvYgiLHWl_gj8&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bd8f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=NUNekkzi47eSbuq8LdOuGpf0k2cz0VpvYgiLHWl_gj8&cl=ffffff" /></a>
