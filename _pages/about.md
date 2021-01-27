@@ -24,6 +24,8 @@ Broadly, my research interests sprawl in the cross-section of **Networked-System
 
 Recent News 
 ======
+* **Paper now published in IEEE Internet Computing (January 2021)
+**"Examining Machine Learning for 5G and Beyond through an Adversarial Lens"** is now accepted and to appear on [IEEE Internet Computing Special Issue on AI-Powered 5G Services](https://ieeexplore.ieee.org/document/9314254)
 
 * **Paper now available on arxiv (September 2020)**  
 Our paper **"Examining Machine Learning for 5G and Beyond through an Adversarial Lens"** is now available on [https://arxiv.org/abs/2009.02473](https://arxiv.org/abs/2009.02473)
