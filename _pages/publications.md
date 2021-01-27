@@ -6,6 +6,16 @@ author_profile: true
 ---
 For an updated list of publications please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=WlwuTKEAAAAJ) profile
 
+* **(2021) 5G Mobile Networks Security Landscape and Major Risks**  
+  **R.N. Mitra**; Mahesh Marina
+  In [Wiley 5G Ref: The Essential 5G Reference Online](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119471509)
+  [[DOI](https://doi.org/10.1002/9781119471509.w5GRef145)]
+
+* **(2021) Examining Machine Learning for 5G and Beyond through an Adversarial Lens**  
+  Muhammad Usama; **R.N. Mitra**; Inaam Ilahi; Junaid Qadir; Mahesh Marina
+  In [IEEE Internet Computing Special Issue on AI-Powered 5G Services](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236)
+  [[DOI](https://ieeexplore.ieee.org/document/9314254)]
+
 * **(2016) 5G mobile technology: A survey**  
   **R.N. Mitra**, Dharma P Agrawal 
   In [ICT Express](https://www.sciencedirect.com/journal/ict-express)
