@@ -4,7 +4,7 @@ collection: teaching
 type: Undergrad level course
 permalink: /teaching/2021-spring-teaching-6
 venue: "The University of Edinburgh, School of Informatics"
-date: 20218-01-25
+date: 2021-01-25
 location: "Edinbrgh, UK"
 ---
 <b>Course Web Page</b> <a href="https://course.inf.ed.ac.uk/comn">https://course.inf.ed.ac.uk/comn</a>
